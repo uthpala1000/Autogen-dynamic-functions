@@ -1,4 +1,4 @@
-# AutoGen dynamic function execution example with UI example
+# AutoGen dynamic function execution example with UI 
 
 This code demonstrates how AutoGen agents can be used to dynamically execute functions through a discussion and integrate with existing systems, specifically a database for inventory management.
 
